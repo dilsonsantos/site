@@ -1,0 +1,37 @@
+body {
+    font-family: 'Verdana', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 28px;
+    color: blue;
+}
+
+button {
+    font-size: 26px;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+
+body {
+    font-family: Arial, Arial-bold;
+    text-align: center;
+}
+
+h1 {
+    font-size: 44px;
+}
+
+img {
+    width: 30%;
+    height: auto;
+}
+
+p {
+    font-family: Broadway;
+    font-weight: bold; /* Aplicando negrito */
+    font-size: 68px;
+    color: red;
+}
